@@ -1,2 +1,0 @@
-# TicketScouterNBA-tickets
-scraper
