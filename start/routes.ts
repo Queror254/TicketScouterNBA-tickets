@@ -30,7 +30,7 @@ Route.get('ticketiqgamesubs', 'TicketiqscrapersController.gameSub')
 //gametime
 Route.get('gametimeteams', 'GametimesController.test2')
 Route.get('gametimetickets', 'GametimesController.tickets')
-Route.get('test', 'GametimesController.tickets_test')
+//Route.get('test', 'GametimesController.tickets_test')
 
 //scorebig
 Route.get('scorebigteams', 'ScorebigsController.teams')
