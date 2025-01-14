@@ -1,4 +1,4 @@
-# NBA Ticket Scraper API
+# NBA Ticket Scraper
 This project provides an API for scraping NBA ticket data from multiple ticket platforms including TicketIQ, Gametime, and ScoreBig. The API allows users to retrieve team and ticket details, as well as game information through different controllers.
 
 The project uses Puppeteer for web scraping and AdonisJS for managing the backend and API routes.
@@ -123,7 +123,7 @@ A database like MySQL or PostgreSQL for storing the scraped data.
 ##### Install dependencies:
 ``npm install``
 
-####Configure your database in config/database.ts.
+#### Configure your database in config/database.ts.
 
 ##### Run migrations to set up the database schema:
 ``node ace migration:run``
